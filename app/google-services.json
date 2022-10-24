@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "349527207162",
+    "firebase_url": "https://kvfapp-16950.firebaseio.com",
+    "project_id": "kvfapp-16950",
+    "storage_bucket": "kvfapp-16950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349527207162:android:54652157de5e074a",
+        "android_client_info": {
+          "package_name": "com.example.dell.kvfapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349527207162-1ksts7e7ka12osfgorblf0vl67g3mqio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.kvfapp",
+            "certificate_hash": "6534c130ac2221ddeb6e48668c3aefc38c6f8e86"
+          }
+        },
+        {
+          "client_id": "349527207162-gapnqq3gv5i18a9pbttlaf8k3nerg559.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD49YR_ZyR5HQ4yQuXNFmC8cMSDT7qKPkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349527207162-gapnqq3gv5i18a9pbttlaf8k3nerg559.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
