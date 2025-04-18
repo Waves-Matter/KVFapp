@@ -3,4 +3,4 @@ This application is my computer science internal assesement for International Ba
 Made in *Android studio*. 
 
 It was finished in 2019.
-Dull doccumentation can be found in *Documents* folder
+Full doccumentation can be found in *Documents* folder
